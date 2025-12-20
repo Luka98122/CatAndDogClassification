@@ -1,2 +1,5 @@
 dogs-vs-cats/train/
 dogs-vs-cats/test/
+dogs-vs-cats/*.zip
+dogs-vs-cats/train/**
+dogs-vs-cats/test/**
